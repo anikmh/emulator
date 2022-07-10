@@ -1,0 +1,2 @@
+model_checkpoint_path: "eos_3p.ckpt"
+all_model_checkpoint_paths: "eos_3p.ckpt"
