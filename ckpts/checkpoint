@@ -1,2 +1,2 @@
-model_checkpoint_path: "eos_all.ckpt"
-all_model_checkpoint_paths: "eos_all.ckpt"
+model_checkpoint_path: "eos_np.ckpt"
+all_model_checkpoint_paths: "eos_np.ckpt"
