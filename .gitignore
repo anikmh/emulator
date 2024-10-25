@@ -1,4 +1,6 @@
-data/.ipynb_checkpoints
-search/random/np/*
-search/.ipynb_checkpoints
-train/.ipynb_checkpoints
+checkpoints/*
+data/raw/*
+data/processed/*
+models/*
+search/random/trials/*
+search/bayesian/trials/*
