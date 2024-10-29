@@ -1,4 +1,4 @@
 {
-    "python.terminal.activateEnvironment": true,
-    "python.defaultInterpreterPath": "/home/anik/mconda3/envs/tfg/bin/python3"
+    "editor.semanticHighlighting.enabled": true,
+    "editor.wordWrap": "on",
 }

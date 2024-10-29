@@ -5,7 +5,7 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "/usr/include/hdf5/serial",
-                "/home/anik/mconda3/envs/tfg/include/python3.10"
+                "/home/anik/mconda/envs/tfg/include/python3.12"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",

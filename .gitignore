@@ -1,6 +1,3 @@
 checkpoints/*
 data/raw/*
-data/processed/*
-models/*
-search/random/trials/*
-search/bayesian/trials/*
+search/trials/*
